@@ -20,3 +20,5 @@ require (
 	github.com/topfreegames/pitaya/v2 v2.0.6
 	gopkg.in/abiosoft/ishell.v2 v2.0.0
 )
+
+replace github.com/topfreegames/pitaya/v2 v2.2.0 => github.com/Hengerbean/pitaya/v2 v2.2.0
