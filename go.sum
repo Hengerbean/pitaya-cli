@@ -45,8 +45,8 @@ github.com/DataDog/datadog-go v4.5.0+incompatible h1:MyyuIz5LVAI3Im+0F/tfo64ETyH
 github.com/DataDog/datadog-go v4.5.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/HdrHistogram/hdrhistogram-go v1.1.0 h1:6dpdDPTRoo78HxAJ6T1HfMiKSnqhgRRqzCuPshRkQ7I=
 github.com/HdrHistogram/hdrhistogram-go v1.1.0/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
-github.com/Hengerbean/pitaya/v2 v2.0.3 h1:rBfFBIOYVFrlvlJtfwpdDaCSclYUq2YBMlSE+hSQQAM=
-github.com/Hengerbean/pitaya/v2 v2.0.3/go.mod h1:QcSRWUSvJVV5Pu90gXdAs4jl/OikjrSNNQlmInARkN0=
+github.com/Hengerbean/pitaya/v2 v2.0.4 h1:qHCs3vgZq2fIaeh1bbBCE4yvNBsnFOpO/eylakXo3qk=
+github.com/Hengerbean/pitaya/v2 v2.0.4/go.mod h1:QcSRWUSvJVV5Pu90gXdAs4jl/OikjrSNNQlmInARkN0=
 github.com/Microsoft/go-winio v0.4.16 h1:FtSW/jqD+l4ba5iPBj9CODVtgfYAD8w2wS923g/cFDk=
 github.com/Microsoft/go-winio v0.4.16/go.mod h1:XB6nPKklQyQ7GC9LdcBEcBl8PF76WugXOPRXwdLnMv0=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
